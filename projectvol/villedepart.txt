@@ -1,0 +1,7 @@
+1 Djerba
+2 Hammamet
+3 Monastir
+4 Sfax
+5 Tabarka
+6 Tozeur
+7 Tunis

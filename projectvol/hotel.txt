@@ -1,0 +1,12 @@
+bizerte bizerte 1 1 1990 3etoilles 2000 20dt
+bizerte andalusia 1 1 1990 5etoilles 2001 40dt
+bizerte chaimamotel 1 1 1990 5etoilles 2001 40dt
+ariana hotel_cosy 6 1 2020 5etoilles 2002 500dt
+bizerte jalta 1 1 1990 4etoilles 123456789 40dt
+tunis sultan 1 1 1990 3etoilles 234 130
+kef rihab 1 1 2013 5etoilles 33 30DT
+kef rih 1 1 1990 3etoilles 33 30dt
+kggdg df 1 1 1990 2etoilles 24 gdf
+kgj sg 1 1 1990 2etoilles 43 f
+kjh ,jb 1 1 1990 2etoilles 45 33
+zzzz zzzz 1 1 1990 3etoilles 9 300

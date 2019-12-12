@@ -1,0 +1,6 @@
+Djerba Amsterdam 4/4/1999 2h Business 2 10dt 1234567
+Hammamet Barcelone 1/1/1990 3H First_class 5 600dt 4576
+Tozeur London 1/1/1990 2H First_class 1 45 11
+Sfax London 1/1/1990 2h Business 5 600 555
+Tabarka London 1/1/1990 2h Economy 1 44 111
+Djerba Amsterdam 6/1/2020 2 Economy 455 400 10  
